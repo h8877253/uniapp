@@ -137,7 +137,7 @@
 						</view>
 						<view class="flex-twice padding-sm margin-xs radius">
 							<view class="text-black">股债并举 攻守兼备</view>
-							<view class="text-gray">诺安成长</view>
+							<view class="text-gray">诺安成长1</view>
 							<button class="cu-btn round sm text-red cenuetitle">最近25544次购买</button>
 						</view>
 					</view>
